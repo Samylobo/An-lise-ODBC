@@ -31,3 +31,5 @@ csv.csv ( documento excel com 70 dados dados)
 # PROJETO ANALISEODBC.PY
 O objetivo deste projeto é realizar uma análise exploratória de dados em um conjunto de dados de vendas, identificando padrões e tendências ao longo do tempo. 
 
+
+![VISUALIZAÇÃO]("C:\Users\marco\Pictures\Screenshots\Captura de tela 2023-12-04 191304.png")
